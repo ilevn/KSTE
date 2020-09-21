@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "knste-docs"
+name = "tinlok-docs"
 version = "1.0.0"
-description = "KNSTE docs"
+description = "Tinlok docs"
 authors = ["Charlotte Skye <char@lotte.tf>"]
 license = "CC-BY-SA-4.0"
 
